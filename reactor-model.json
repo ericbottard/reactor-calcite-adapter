@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultSchema": "reactor",
+  "schemas": [
+    {
+      "name": "reactor",
+      "type": "custom",
+      "factory": "io.projectriff.reactor.calcite.ReactorSchemaFactory",
+      "operand": {
+        "rowConverter": "io.projectriff.reactor.calcite.ExampleRowConverter"
+      }
+    }
+  ]
+}
