@@ -17,7 +17,7 @@
 		<protoc.version>3.7.1</protoc.version>
 		<reactive-grpc.version>1.0.0</reactive-grpc.version>
 		<reactor.version>3.3.0.RELEASE</reactor.version>
-		<calcite.version>1.21.0</calcite.version>
+		<calcite.version>1.32.0</calcite.version>
 	</properties>
 
 	<dependencies>
